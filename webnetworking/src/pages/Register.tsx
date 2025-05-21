@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import MultiSelect from '../components/multiSelect'
+import MultiSelect from '../components/MultiSelect'
 import { skills, interests, fieldsOfWork } from '../data/options'
 
 export default function Register() {
